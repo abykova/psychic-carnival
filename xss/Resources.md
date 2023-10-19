@@ -1,4 +1,6 @@
+
 ## Resources
+
 - [OWASP: XSS Types](https://owasp.org/www-community/Types_of_Cross-Site_Scripting)
 - [Portswigger DOM Vulnerabilities](https://portswigger.net/web-security/dom-based)
 - [PortSwigger DOM-based XSS](https://portswigger.net/web-security/cross-site-scripting/dom-based)
